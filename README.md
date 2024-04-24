@@ -9,7 +9,6 @@ Short url: http://openMetaanalysis.github.io/mafld
 Meta-regression of common modulators (year of publication, study size, event rate in the control groups) finds that the outcome of the intervention is effected by xx.
 
 * [Reconciliation of studies and conclusions with prior meta-analyses](files/reconciliation-tables/Reconciliation%20of%20studies%20and%20conclusions.pdf)
-* [Keep current with this topic](files/searching/Keep-up.md)
 
 Acknowledgement: we acknowledge the essential work by the authors of the prior [systematic review(s)](#systematic-reviews) listed below.
 
@@ -27,28 +26,32 @@ Acknowledgement: we acknowledge the essential work by the authors of the prior [
 The forest plot for the primary outcomes are below. Additional [forest plots](files/forest-plots) of secondary analyses may be available. 
 ![Principle results](files/forest-plots/Outcome-Primary.png)
 
+<!--
 The meta-regression for the primary outcomes are below. Additional [meta-regressions](files/metaregression) of secondary analyses may be available. 
 ![Principle results for benefit](files/metaregression/Outcome-Primary.png "Principle results for benefit]")
 
 The GRADE Profile is below. ![GRADE Profile](files/GRADE-profiles/Summary-of-findings-table.png "GRADE Profile")
+
+-->
 
 References:
 ----------------------------------
 
 ### Systematic review(s)
 #### Most recent review at time of last revision of this repository
-1. Ammendolia C, Stuber KJ, Rok E, Rampersaud R, Kennedy CA, Pennick V, Steenstra IA, de Bruin LK, Furlan AD. Nonoperative treatment for lumbar spinal stenosis with neurogenic claudication. Cochrane Database Syst Rev. 2013 Aug 30;8:CD010712. doi: [10.1002/14651858.CD010712](http://dx.doi.org/10.1002/14651858.CD010712). PMID: [23996271](http://pubmed.gov/23996271).
+None
 
 ### Randomized controlled trials
 #### New trial(s) *not* included in the most recent review above
-1. Friedly JL, Comstock BA, Turner JA, Heagerty PJ, Deyo RA, Sullivan SD, Bauer Z, Bresnahan BW, Avins AL, Nedeljkovic SS, Nerenz DR, Standaert C, Kessler L, Akuthota V, Annaswamy T, Chen A, Diehn F, Firtch W, Gerges FJ, Gilligan C,
-Goldberg H, Kennedy DJ, Mandel S, Tyburski M, Sanders W, Sibell D, Smuck M, Wasan A, Won L, Jarvik JG. A randomized trial of epidural glucocorticoid injections for spinal stenosis. N Engl J Med. 2014 Jul 3;371(1):11-21. doi: [10.1056/NEJMoa1313265](http://dx.doi.org/10.1056/NEJMoa1313265). PMID: [24988555](http://pubmed.gov/24988555).
+1. Armstrong MJ, Gaunt P, Aithal GP, Barton D, Hull D, Parker R, Hazlehurst JM, Guo K; LEAN trial team; Abouda G, Aldersley MA, Stocken D, Gough SC, Tomlinson JW, Brown RM, Hübscher SG, Newsome PN. Liraglutide safety and efficacy in patients with non-alcoholic steatohepatitis (LEAN): a multicentre, double-blind, randomised, placebo-controlled phase 2 study. Lancet. 2016 Feb 13;387(10019):679-690. doi: 10.1016/S0140-6736(15)00803-X. Epub 2015 Nov 20. PMID: 26608256.
+2. Newsome PN, Buchholtz K, Cusi K, Linder M, Okanoue T, Ratziu V, Sanyal AJ, Sejling AS, Harrison SA; NN9931-4296 Investigators. A Placebo-Controlled Trial of Subcutaneous Semaglutide in Nonalcoholic Steatohepatitis. N Engl J Med. 2021 Mar 25;384(12):1113-1124. doi: 10.1056/NEJMoa2028395. Epub 2020 Nov 13. PMID: 33185364.
+3. Loomba R, Abdelmalek MF, Armstrong MJ, Jara M, Kjær MS, Krarup N, Lawitz E, Ratziu V, Sanyal AJ, Schattenberg JM, Newsome PN; NN9931-4492 investigators. Semaglutide 2·4 mg once weekly in patients with non-alcoholic steatohepatitis-related cirrhosis: a randomised, placebo-controlled phase 2 trial. Lancet Gastroenterol Hepatol. 2023 Jun;8(6):511-522. doi: 10.1016/S2468-1253(23)00068-7. Epub 2023 Mar 16. PMID: 36934740; PMCID: PMC10792518.
 
 #### Trial(s) included in the review above
-1. Fukusaki M, Kobayashi I, Hara T, Sumikawa K. Symptoms of spinal stenosis do not improve after epidural steroid injection. Clin J Pain. 1998 Jun;14(2):148-51. PMID:[9647457](http://pubmed.gov/9647457).
+None
 
 #### Trial(s) undergoing review
-None
+1. Harrison SA, Bedossa P, Guy CD, Schattenberg JM, Loomba R, Taub R, Labriola D, Moussa SE, Neff GW, Rinella ME, Anstee QM, Abdelmalek MF, Younossi Z, Baum SJ, Francque S, Charlton MR, Newsome PN, Lanthier N, Schiefke I, Mangia A, Pericàs JM, Patil R, Sanyal AJ, Noureddin M, Bansal MB, Alkhouri N, Castera L, Rudraraju M, Ratziu V; MAESTRO-NASH Investigators. A Phase 3, Randomized, Controlled Trial of Resmetirom in NASH with Liver Fibrosis. N Engl J Med. 2024 Feb 8;390(6):497-509. PMID: [38324483](http://pubmed.gov/38324483).
 
 #### Trial(s) excluded - selected list of important trial(s)
 
